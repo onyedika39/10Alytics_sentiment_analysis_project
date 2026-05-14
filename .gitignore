@@ -203,6 +203,14 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Project environments and generated ML artifacts
+sentiment_env/
+shopease_env/
+results/
+logs/
+mlruns/
+Data/processed_data/
+
 # Ruff stuff:
 .ruff_cache/
 
