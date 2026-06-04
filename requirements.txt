@@ -1,12 +1,29 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+matplotlib
 seaborn
+
+# NLP and deep learning
 nltk
 spacy
 torch
-streamlit
-joblib
+torchvision
+transformers
 accelerate>=1.1.0
+
+# Experiment tracking and model registry
 mlflow
 dagshub
-torchvision
+
+# API and dashboard
+fastapi
+uvicorn
+streamlit
 python-multipart
-transformers
+requests
+pydantic
+
+# Utilities
+joblib
